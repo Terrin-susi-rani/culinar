@@ -1,0 +1,8 @@
+streamlit
+requests
+pint
+python-dotenv
+crewai
+langchain-google-genai
+supabase
+streamlit-webrtc  # For future voice input
