@@ -1,0 +1,37 @@
+recipe_provider_task:
+  description: "The user wants a recipe for {recipe_name}. Find and present a clear and concise recipe."
+  expected_output: "A detailed recipe with ingredients and step-by-step instructions."
+
+leftover_recipe_task:
+  description: "The user has the following leftover vegetables: {leftover_veggies}. Suggest one or more recipes to use them."
+  expected_output: "One or more recipe suggestions that utilize the provided leftover vegetables."
+
+diet_cuisine_planner_task:
+  description: "The user prefers a {dietary_preference} diet and {cuisine_preference_prompt}. Create a week-long meal plan."
+  expected_output: "A 7-day meal plan (breakfast, lunch, dinner) adhering to the dietary preference and/or cuisine, with ingredient lists for each meal."
+
+grocery_price_comparer_task:
+  description: "The user wants to know the price comparison for {groceries_to_compare} on Swiggy Instamart, Zepto, and Blinkit."
+  expected_output: "A table or clear comparison of the estimated prices for each grocery item across the three platforms, with a summary of the findings."
+
+automated_shopper_task:
+  description: "The user wants to buy {shopping_list} on {shopping_platform}. Guide them on how to add these to their cart."
+  expected_output: "Step-by-step instructions on how to find and add the specified groceries to the cart on the chosen platform."
+
+ingredient_substitution_task:
+  description: "The user needs a substitute for {missing_ingredient} in the recipe: {recipe_name}. Suggest common and suitable substitutions, explaining their impact on the dish if relevant."
+  expected_output: "A list of one or more suitable substitutes for the missing ingredient, potentially with notes on how they might affect the flavor or texture of the recipe."
+
+nutritional_info_task:
+  description: "The user wants the nutritional information for the recipe: {recipe_name}. Find and present the approximate calorie count, macronutrient breakdown (protein, fat, carbohydrates), and potentially other relevant nutritional details per serving."
+  expected_output: "The approximate nutritional information per serving for the specified recipe, including calories, protein, fat, and carbohydrates."
+
+get_food_history:
+  description: "Provides historical information about {food_topic}."
+  expected_output: "A concise yet informative overview of the history of the specified food topic, potentially including its origins, evolution, and cultural significance."
+
+get_famous_food_and_hotels:
+  description: "Provides the top 10 famous foods and top 10 restaurants addresses and names for {place_name}."
+  agent: "Local Guide"
+  expected_output: "Two distinct lists: one detailing the top 10 famous foods of the given {place_name} (including dish names and brief descriptions if possible), and another providing the names and addresses of the top 10 restaurants in the same {place_name}."
+  

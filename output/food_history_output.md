@@ -1,0 +1,7 @@
+## Provides historical information about Egg curry:
+
+Egg curry is a dish steeped in history, primarily within the Indian subcontinent, although pinpointing its exact origin remains elusive. Its story is intertwined with the ancient practice of curry making, dating back to the Indus Valley Civilization (2500 BCE) where spices like turmeric, ginger, and coriander were already in use. The addition of eggs came later, following the introduction of chickens to the region around 1500 BCE. Initially used for cockfighting, chickens gradually became a source of eggs, which were then incorporated into existing vegetarian curries as a way to boost protein content.
+
+Regional variations of egg curry abound, each with distinct flavors and ingredients: Bengali Egg Curry (Dimer Dalna) features a sweet gravy with potatoes; South Indian Egg Curry is spicy with coconut milk and curry leaves; North Indian Egg Curry utilizes a tomato-based gravy with garam masala; and Mughlai Egg Curry incorporates nuts, cream, and aromatic spices like cardamom and saffron for a richer experience.
+
+The dish has also transcended geographical boundaries, gaining popularity in Southeast Asia, the United Kingdom, and the Caribbean, where it has been adapted to local palates with regional ingredients. Egg curry's journey through time and across cultures highlights its versatility and its significance in the culinary landscape, showcasing how ingredients and techniques evolve and blend over centuries.
